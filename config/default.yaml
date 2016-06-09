@@ -1,0 +1,7 @@
+service:
+  adminEmail: info@codio.pro
+  application: Codio.Pro Website
+apis:
+  sendGrid:
+    templates:
+      contactUs: 218277b9-a255-40db-9180-bfe2d5575f88
